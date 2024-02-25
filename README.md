@@ -2,7 +2,7 @@
 This is the repository for the Course: Object-Oriented Programming, offered by the National University of Colombia, semester 2024-1
 
 ## Actividad 1
-Para la primera parte del curso se realizaron los siguientes ejercicios basados en el libro **Lógica de Programación** del profesor Efraín Oviedo.
+For the first part of the course, the following exercises were carried out based on the book [**Programming Logic**] by Professor Efraín Oviedo Regino in order to get an approach to Java programming.
 
 [Ejercicio 1]
 [Ejercicio 2]
