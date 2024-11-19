@@ -1,5 +1,5 @@
-# POO_Cristian_Velasquez_2024-1
-This is the repository for the Course: Object-Oriented Programming, offered by the National University of Colombia, semester 2024-1
+# POO_Cristian_Velasquez_2024-2
+This is the repository for the Course: Object-Oriented Programming, offered by the National University of Colombia, semester 2024-2
 
 ## Activity 1
 For the first part of the course, the following exercises were carried out based on the book [**Programming Logic**](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-1/blob/0a6e67a7dc3996d9bebf1d7bbb11a3b033b7deae/Libro%20Logica%20de%20Programacion_EfrainOviedoRegino.pdf) by Professor Efraín Oviedo Regino in order to get an approach to Java programming.
