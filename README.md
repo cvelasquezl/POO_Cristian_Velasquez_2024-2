@@ -35,10 +35,7 @@ For the third part of the course, the following exercises were carried out based
 In this part of the course, the following exercises were carried out based on the book [**Programming Exercises**](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-1/blob/2112361363c97aaf1a381d4e62e6a87e95ca4ae0/Libro%20Ejercicios%20de%20Programacion_LeonardoBermonAngarita.pdf) by Professor Leonardo Bermon Angarita in order to get an approach to creation of class inheritance, abstract classes and methods, packets and access methods, algorithm programming logic in Java, User Interphase management, class diagrams in Star UML, Block Diagrams & Use Case Diagrams.
 
 [Activity Codes](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/95e1d7d686521687041bf80402622457d244a442/Actividad%204.zip)
-[Class Diagrams]
-[Block Diagrams]
-[Use Case Diagrams]
-[Summary PDF Doc - Activity 4]
+[Summary PDF Doc - Activity 4](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/186e108bcd943328136035338290a729d0bb0dff/Actividad%204/Actividad%204.pdf)
 
 
 
