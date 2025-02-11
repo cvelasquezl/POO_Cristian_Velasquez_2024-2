@@ -43,6 +43,6 @@ In this part of the course, the following exercises were carried out based on th
 
 [Activity 5 Codes](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/6b21313b09fd877a255215565d83185ce3bfbddc/Actividad%205/Actividad%205.zip)
 
-[Summary PDF Doc - Activity 4](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/6b21313b09fd877a255215565d83185ce3bfbddc/Actividad%205/Actividad%205.zip)
+[Summary PDF Doc - Activity 4](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/6b21313b09fd877a255215565d83185ce3bfbddc/Actividad%205/Actividad%205%20-%20POO%20-%20G6.pdf)
 
 
