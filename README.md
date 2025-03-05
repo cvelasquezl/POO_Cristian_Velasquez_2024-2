@@ -48,9 +48,9 @@ In this part of the course, the following exercises were carried out based on th
 ## Activity 6
 For the last part of the course, we had to create our own program based on what we review during the course in order to start applying all the methods learned in previous sections of the course and to create better and more interactive user interphases and conect them with logic algorithms.
 
-[Activity 6 Codes](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/6b21313b09fd877a255215565d83185ce3bfbddc/Actividad%205/Actividad%205.zip)
+[Activity 6 Summary](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/tree/7b1cae78dea764a7034e8ed07cb308cda6a35e95/Actividad%206)
 
-[Summary PDF Doc - Activity 6](https://github.com/cvelasquezl/POO_Cristian_Velasquez_2024-2/blob/6b21313b09fd877a255215565d83185ce3bfbddc/Actividad%205/Actividad%205%20-%20POO%20-%20G6.pdf)
+
 
 
 
